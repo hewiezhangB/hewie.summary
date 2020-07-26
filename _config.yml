@@ -15,10 +15,10 @@ keywords: hewie,温玉,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: hewie/hewie.summary
-github_url: https://hewiezhangb.github.io/
-url: https://hewiezhangb.github.io/
-enforce_ssl: hewie.com
+repository: hewiezhangB/hewiezhangB.github.io
+github_url: https://github.com/hewiezhangB
+url: http://www.hewiezhangB.com
+enforce_ssl: hewiezhangB.com
 
 ## Gem
 plugins:
@@ -193,7 +193,7 @@ classes:
   -
     href: /cartoon.html
     name: 不会笑青年
-    describe: 内心沉稳。
+    describe: 内心沉稳 ，放荡不羁。
 
   -
     href: /life.html
@@ -239,17 +239,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: hewie
+    username: hewiezhangB
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: hewie
+    owner: hewiezhangB
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: hewie
+    owner: hewiezhangB
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
