@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: hewie/hewie.summary
-github_url: https://github.com/hewie
-url: http://www.hewie.com
+github_url: https://hewiezhangb.github.io/
+url: https://hewiezhangb.github.io/
 enforce_ssl: hewie.com
 
 ## Gem
