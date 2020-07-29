@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: hewiezhangB/hewiezhangB.github.io
 github_url: https://github.com/hewiezhangB
-url: http://www.hewiezhangB.com
-enforce_ssl: hewiezhangB.com
+url: https://hewiezhangb.github.io/
+enforce_ssl: https://hewiezhangb.github.io/
 
 ## Gem
 plugins:
